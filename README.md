@@ -1,6 +1,6 @@
 
 
-# 📚 Diplomatura en Esports
+# 📚 Diplomatura en Esports - UNLP
 
 ## 🎮 Módulo 1: Introducción. Aspectos generales de los Esports [Mg. Federico Ruera]
 
@@ -58,7 +58,7 @@
 - 📢 **Comunicación organizacional**
 - 🎙️ **Psicodeportología 2: Comunicación**
 
-## 🔍 Módulo 8: Aspectos Complementarios de Informática y Tecnología [Lic. Ponte Ahon]
+## 🔍 Módulo 8: Aspectos Complementarios de Informática y Tecnología [Lic. Santiago Ponte Ahon]
 
 - 📊 **Big Data aplicado a los esports**
 - 🤖 **Inteligencia artificial y aprendizaje automático en los esports**
